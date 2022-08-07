@@ -51,7 +51,7 @@ const Header = ({ setCoordinates }) => {
             variant="contained"
             color="primary"
             endIcon={<GitHubIcon></GitHubIcon>}
-            href=""
+            href="https://github.com/karthikeyan12345/Traveler-Guide.git"
           >
             Github Repo
           </Button>
